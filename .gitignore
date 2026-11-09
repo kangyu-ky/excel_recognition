@@ -1,0 +1,9 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 答案文件不纳入版本管理
+submit.xlsx
+
+# 中间产物
+.screenshots/
